@@ -1,10 +1,29 @@
 # 🎨 Designly — Canva-Inspired Design Platform
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Project-Designly-7C3AED?style=for-the-badge&logo=canva&logoColor=white](https://img.shields.io/badge/Project-Designly-7C3AED?style=for-the-badge\&logo=canva\&logoColor=white)" alt="Designly"/>   \<img src="[https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)" alt="React"/>   \<img src="[https://img.shields.io/badge/Mobile-React_Native-20232A?style=for-the-badge&logo=react&logoColor=white](https://img.shields.io/badge/Mobile-React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=white)" alt="React Native"/>   \<img src="[https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white](https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)" alt="Spring Boot"/>   \<img src="[https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)" alt="PostgreSQL"/> \</p>
 
-\<p align="center">   \<strong>Design Anything. Create Without Limits.\</strong>   \<br/>\<br/>   A full-stack, Canva-inspired graphic design platform with a React web application, React Native mobile application, and Java Spring Boot backend. \</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Designly-7C3AED?style=for-the-badge&logo=canva&logoColor=white" alt="Designly" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Mobile-React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-\<p align="center">   \<strong>🎨 Create Designs\</strong> &nbsp; • &nbsp;   \<strong>🖼️ Customize Templates\</strong> &nbsp; • &nbsp;   \<strong>📱 Design on Mobile\</strong> &nbsp; • &nbsp;   \<strong>📤 Export Your Work\</strong> \</p>
+<p align="center">
+  <strong>Design Anything. Create Without Limits.</strong>
+  <br /><br />
+  A full-stack, Canva-inspired graphic design platform with a React web application, React Native mobile application, and Java Spring Boot backend.
+</p>
+
+<p align="center">
+  <strong>🎨 Create Designs</strong>
+  &nbsp; • &nbsp;
+  <strong>🖼️ Customize Templates</strong>
+  &nbsp; • &nbsp;
+  <strong>📱 Design on Mobile</strong>
+  &nbsp; • &nbsp;
+  <strong>📤 Export Your Work</strong>
+</p>
 
 ---
 
