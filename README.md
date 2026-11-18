@@ -408,11 +408,7 @@ Full-Stack Developer | MCA Student | Software Development Enthusiast
 
 Interested in building modern web applications, interactive design tools, scalable backend systems, and AI-powered software solutions.
 
-\<p align="center">
-&#x20; \<strong>🎨 DESIGN. CREATE. INSPIRE.\</strong>
-&#x20; \<br/>\<br/>
-&#x20; \<sub>Designly — Your Creative Workspace, One Platform.\</sub>
-\</p>
+
 
 ---
 
