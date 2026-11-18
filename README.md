@@ -416,4 +416,4 @@ Interested in building modern web applications, interactive design tools, scalab
 
 ---
 
-\<p align="center">   \<strong>If you find this project interesting, consider giving it a ⭐ on GitHub!\</strong> \</p>
+\<p align="center">   If you find this project interesting, consider giving it a ⭐ on GitHub!
