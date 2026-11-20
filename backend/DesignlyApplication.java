@@ -1,1 +1,0 @@
-package com.designly;import org.springframework.boot.SpringApplication;import org.springframework.boot.autoconfigure.SpringBootApplication;@SpringBootApplication public class DesignlyApplication{public static void main(String[]args){SpringApplication.run(DesignlyApplication.class,args);}}
